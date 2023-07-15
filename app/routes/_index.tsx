@@ -10,7 +10,7 @@ export const meta: V2_MetaFunction = () => {
 export default function Index() {
   return (
     <div className=' flex flex-row justify-center my-48'>
-      <h1 className='text-3xl text-red-700 font-bold'>Hello world!</h1>
+      <h1 className='text-3xl text-blue-500 font-bold'>Hello world!</h1>
     </div>
   );
 }
